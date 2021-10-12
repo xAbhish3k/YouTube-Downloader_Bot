@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/war-legend/Youtube-Downloader-Bot",
+  "repository": "https://github.com/xabhish3k/Youtube-Downloader-Bot",
   "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader_Bot",
+  "website": "https://github.com/xabhish3k/Youtube-Downloader_Bot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
