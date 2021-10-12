@@ -13,7 +13,7 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Abhishek](https://telegram.dog/itsmelegend)
+* [Abhishek](https://telegram.dog/xABHISH3K)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/war-legend/Youtube-Downloader_Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xabhish3k/Youtube-Downloader_Bot/tree/master)
